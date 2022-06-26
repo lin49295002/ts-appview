@@ -1,3 +1,4 @@
+-- 第一次使用 运行后重启App
 local view = require("view")
 local bid = frontAppBid()
 view.label(bid)
